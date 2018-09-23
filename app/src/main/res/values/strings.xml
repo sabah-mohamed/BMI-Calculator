@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="textView_name">BMI</string>
+    <string name="editText1_name">Enter your Weight</string>
+    <string name="editText2_name">Enter your Height</string>
+    <string name="btn01_name">Calculate</string>
+    <string name="result_name">Results</string>
+
+</resources>
